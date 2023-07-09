@@ -1,7 +1,7 @@
 if (navigator.serviceWorker) {
    // console.log("Si tiene Sw");
 
-   navigator.serviceWorker.register('/Tienda1/sw.js');
+   navigator.serviceWorker.register('/TienditaFinal/sw.js');
 
 }
 
